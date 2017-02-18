@@ -1,0 +1,6 @@
+.DS_Store
+*.o
+gdisk
+sgdisk
+cgdisk
+fixparts
